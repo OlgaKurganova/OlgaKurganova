@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**OlgaKurganova/OlgaKurganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+(https://private-user-images.githubusercontent.com/136937640/326397419-b4556ee4-cfc9-4aa5-8753-ae6aeb685374.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAzNzMzMzcsIm5iZiI6MTcyMDM3MzAzNywicGF0aCI6Ii8xMzY5Mzc2NDAvMzI2Mzk3NDE5LWI0NTU2ZWU0LWNmYzktNGFhNS04NzUzLWFlNmFlYjY4NTM3NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwN1QxNzIzNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGM3YzA0MTU4YzQxZjNhZGYzYzRiMTUzNjY2OGYxMWM5YWVhMjZkMTMxZjZkMWY1Mjk0NzE2MDg4NzE4MTRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.1fuGQUV5_HShxrfOajVBMYxeG5Mo0iGGpdeNKcct3zA)**OlgaKurganova/OlgaKurganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: niketaster@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
