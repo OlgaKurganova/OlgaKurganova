@@ -1,5 +1,10 @@
 ![Profile Banner](https://github.com/OlgaKurganova/OlgaKurganova/blob/main/imagen.jpg)
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 Here are some ideas to get you started:
