@@ -34,9 +34,9 @@
 
   <h3>Other tools:</h3>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40" height="40"/>
+  
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VisualStudio Code" width="65" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  
 </div>
 
 
