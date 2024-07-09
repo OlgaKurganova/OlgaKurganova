@@ -1,4 +1,4 @@
-## Hi there 👋
+![Profile Banner](https://github.com/OlgaKurganova/OlgaKurganova/blob/main/imagen.jpg)
 
 
 
