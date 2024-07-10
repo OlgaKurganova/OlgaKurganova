@@ -6,6 +6,19 @@
        alt="snake" /></a>
 </div>
 
+## Data Science
+| Course                                             | Fecha       |
+|---------------------------------------------------|-------------|
+| 📚 Machine Learning Engineering (4Geeks Academy)  | 06-2024     |
+| 📚 php                                            | 04-2024    |
+
+
+## ADE
+| Title                                             | Fecha       |
+|---------------------------------------------------|-------------|
+| 📚 Ingeneria Informatica /homologada              | 09-2005     |
+| 📚 Tax Administration                             | 04-2000    |
+
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
 <div style="display: flex; align-items: center;">
@@ -24,12 +37,12 @@
 
   <h3>MACHINE LEARNING:</h3>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+ 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
 
   <h3>DATA ENGINEERING & DATABASES:</h3>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
 
   <h3>Other tools:</h3>  
