@@ -60,6 +60,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlgaKurganova-a&show_icons=true&locale=en&layout=compact" alt="OlgaKurganova-a" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlgaKurganova&show_icons=true&locale=en&layout=compact" alt="OlgaKurganova" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OlgaKurganova-a&show_icons=true&locale=en" alt="OlgaKurganova-a" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OlgaKurganova&show_icons=true&locale=en" alt="OlgaKurganova" /></p>
+
