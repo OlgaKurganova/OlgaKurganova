@@ -40,4 +40,26 @@
   
 </div>
 
+<h3>Idioms</h3>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera de Estados Unidos">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" height="30" alt="Bandera de Rusia">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" height="30" alt="Bandera de Francia">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/2560px-Flag_of_Catalonia.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/2560px-Flag_of_Catalonia.svg.png" height="30" alt="Bandera de Cataluña">
+</a>
+<hr style="border:1px solid #ccc">
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlgaKurganova-a&show_icons=true&locale=en&layout=compact" alt="OlgaKurganova-a" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OlgaKurganova-a&show_icons=true&locale=en" alt="OlgaKurganova-a" /></p>
