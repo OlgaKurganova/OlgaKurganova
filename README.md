@@ -39,6 +39,21 @@
   
 </div>
 
+## My Skills
+- Business Analytics
+- Machine Learning
+- Databases: SQL
+- Deep Learning
+- Version Control Tools: Git
+- Visualization Tools: PowerBI
+- Pandas
+- Numpy
+- TensorFlow
+- Streamlit 
+- Natural Language Processing (NLP) and Image Processing 
+- Version Control Tools: Git 
+
+
 <h3>Idioms</h3>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
