@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/OlgaKurganova/OlgaKurganova/blob/main/imagen.jpg)
+![Profile Banner](https://github.com/OlgaKurganova/OlgaKurganova/blob/main/imagen1.png)
 
 <!--- snake -->
 <div align="center">
